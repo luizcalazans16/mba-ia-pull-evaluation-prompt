@@ -388,8 +388,8 @@ python src/evaluate.py
 
 ### Evidências no LangSmith
 
-- **Link do Dashboard:** `[Inserir link público do LangSmith aqui]`
-- **Prompt Público:** `[Inserir link do prompt no Hub aqui]`
+- **Link do Dashboard:** `https://smith.langchain.com/o/b28575f1-621d-4dbe-9bac-c037dfcbfc6e/dashboards/projects/10916a50-a052-4732-8b34-bdfba8faba03`
+- **Prompt Público:** `https://smith.langchain.com/prompts/bug_to_user_story_v2?organizationId=b28575f1-621d-4dbe-9bac-c037dfcbfc6e`
 
 > Screenshots das avaliações devem ser inseridos aqui após a execução do `evaluate.py`.
 
